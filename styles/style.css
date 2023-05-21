@@ -5,20 +5,8 @@
     margin: 0 auto;
 }
 
-.logo_place_lead {
-    width: 270px;
-    height: 70px;
-    display: flex;
-    align-items: center;
-    margin: 34px auto;
-}
-/*block lead*/
 
-.lead {
-    width: 984px;
-    height: 983px;
-    margin: 194px auto 0;  
-}
+/*block lead*/
 
 .lead__title {
     color: #FFFFFF;
