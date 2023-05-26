@@ -1,0 +1,29 @@
+.intro__text-deductive {
+    width: 720px;
+    height: 208px;
+    margin: 16px auto 0 148px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 480;
+    font-size: 16px;
+    line-height: 26px;
+    color: #FFFFFF;
+}
+
+@media screen and (max-width: 768px) {
+    .intro__text-deductive{
+        width: 720px;
+        margin: 21px 24px 0;
+    }
+}
+
+@media screen and (max-width: 320px){
+    .intro__text-deductive{
+        width: 288px;
+        height: 432px;
+        margin: 30px 16px 0;
+        font-size: 15px;
+        line-height: 24px;
+    }
+}

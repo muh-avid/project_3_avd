@@ -1,0 +1,21 @@
+.lead__kalegin-michail {
+    width: 984px;
+    height: 615px;
+    margin: 64px auto 0 auto;
+    filter: grayscale(100%);
+}
+
+@media screen and (max-width: 768px){
+    .lead__kalegin-michail {
+        width: 768px;
+        margin: 36px 0 0 auto;
+    }
+}
+
+@media screen and (max-width: 320px){
+    .lead__kalegin-michail{
+        width: 320px;
+        height: 200px;
+        margin: 20px 0 0;
+    }
+}
