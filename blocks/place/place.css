@@ -2,6 +2,7 @@
     width: 984px;
     display: grid;
     grid-template-rows: auto 460px auto;
+    grid-template-columns: 460px;
     grid-gap: 2.5em;
     grid-template-areas: 
     "title website"
@@ -15,6 +16,7 @@
         width: 720px;
         display: grid;
         grid-template-rows: auto 340px auto;
+        grid-template-columns: 340px 375px;
         grid-gap: 1.7em;
         grid-template-areas: 
         "title website"
@@ -29,6 +31,7 @@
         width: 320px;
         display: grid;
         grid-template-rows: auto auto 320px auto auto;
+        grid-template-columns: 320px;
         grid-gap: 1.8em;
         grid-template-areas:
         "title"

@@ -1,18 +1,17 @@
 .place__website-artist {
-    width: 456px;
-    height: 44px;
-
-    font-family: 'Inter';
+    width: 316px;
+    font-family: Inter;
     font-style: normal;
     font-weight: 400;
     font-size: 18px;
     line-height: 22px;
-    color: #FFFFFF;
+    color: #fff;
+    margin: 0;
 }
+
 
 @media screen and (max-width: 320px){
     .place__website-artist{
-        width: auto;
         margin: 0;
         font-size: 12px;
         line-height: 15px;
