@@ -11,6 +11,25 @@
     margin: auto;
 }
 
+@media screen and (min-width: 320px) and (max-width: 767px) {
+    .place {
+        width: 320px;
+        display: grid;
+        grid-template-rows: auto auto 320px auto auto;
+        grid-template-columns: 320px;
+        grid-gap: 1.8em;
+        grid-template-areas:
+        "title"
+        "website"
+        "image"
+        "paragraph"
+        "frame";
+        margin: auto;
+    }
+
+}
+    
+/*
 @media screen and (max-width: 768px) {
     .place{
         width: 720px;
@@ -25,20 +44,4 @@
         margin: auto;
     }
 }
-
-@media screen and (max-width: 320px){
-    .place{
-        width: 320px;
-        display: grid;
-        grid-template-rows: auto 40px 320px auto 100px;
-        grid-template-columns: 320px;
-        grid-gap: 1.8em;
-        grid-template-areas:
-        "title"
-        "website"
-        "image"
-        "paragraph"
-        "frame";
-        margin: auto;
-    }
-}
+*/
