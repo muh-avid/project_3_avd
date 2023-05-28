@@ -1,6 +1,6 @@
 .cover {
     width: 1184px;
-    height: 740px;
+    min-height: 740px;
     margin: 92px auto 0;
     display: flex;
     flex-wrap: wrap;
@@ -11,7 +11,7 @@
 @media screen and (max-width: 768px){
     .cover{
         width: 768px;
-        height: 740px;
+        min-height: 740px;
         margin: 92px 0 88px; 
     }
 }
@@ -19,7 +19,7 @@
 @media screen and (max-width: 320px){
     .cover{
         width: 320px;
-        height: 254px;
+        min-height: 254px;
         background-size: 100% 100%;
         object-fit: cover;
         margin: 64px auto 0;

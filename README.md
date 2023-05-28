@@ -5,6 +5,15 @@
 - Pengantar
 - Figma
 - Gambar
+- gh-pages
+
+## DESKRIPSI
+Ini adalah proyek yang menampilakn kampung halaman beberapa karyawan Practicum dan saya sebagai student di practicum memasukkannya juga, semua element ditampilkan secara tepat di ukuran yang paling banyak digunakan, yaitu : 
+- 320px 
+- 768px
+- 1280px
+
+* dari project sebelumnya saya akui ini cukup sulit, sehingga lumayan banyak memakan waktu bagi saya untuk menyelesaikan project kali ini.
 
 **Pengantar**
 

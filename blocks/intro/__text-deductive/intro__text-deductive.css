@@ -1,6 +1,6 @@
 .intro__text-deductive {
     width: 720px;
-    height: 208px;
+    
     margin: 16px auto 0 148px;
 
     font-family: 'Inter';
@@ -21,7 +21,7 @@
 @media screen and (max-width: 320px){
     .intro__text-deductive{
         width: 288px;
-        height: 432px;
+        
         margin: 30px 16px 0;
         font-size: 15px;
         line-height: 24px;
