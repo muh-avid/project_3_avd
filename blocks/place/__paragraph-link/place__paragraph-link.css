@@ -13,16 +13,16 @@
     text-align: center;
     grid-area: frame;
     box-sizing: border-box;
-    margin: 0 auto 79px 0;
+    margin: 0 auto auto 0;
 }
 
 .place__paragraph-link:hover{
     background: #0063d2;
 }
 
-@media screen and (max-width: 768px){
+@media screen and (min-width: 768px) and (max-width: 1279px){
     .place__paragraph-link{
-        margin: 0 auto 259px 0;
+        margin: 0 auto auto 0;
     }
 }
 
