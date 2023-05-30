@@ -13,7 +13,7 @@
 @import url(../blocks/lead/__logo/lead__logo.css);
 @import url(../blocks/lead/__title/lead__title.css);
 @import url(../blocks/lead/__subtitle/lead__subtitle.css);
-@import url(../blocks/lead/__kalegin-michail/lead__kalegin-michail.css);
+@import url(../blocks/lead/__image/lead__image.css);
 
 /*intro*/
 @import url(../blocks/intro/intro.css);
