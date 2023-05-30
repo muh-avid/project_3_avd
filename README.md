@@ -5,7 +5,12 @@
 - Pengantar
 - Figma
 - Gambar
-- gh-pages
+
+
+**gh-pages**
+
+ https://muh-avid.github.io/web_project_3_id/ 
+
 
 ## DESKRIPSI
 Ini adalah proyek yang menampilakn kampung halaman beberapa karyawan Practicum dan saya sebagai student di practicum memasukkannya juga, semua element ditampilkan secara tepat di ukuran yang paling banyak digunakan, yaitu : 
