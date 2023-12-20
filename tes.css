@@ -1,0 +1,9 @@
+.content__intro-background {
+    border: 3px red solid;
+    width: 100%;
+    height: 250px;
+    background: rgba(42, 44, 47, 0.8);
+    margin-top: -200px;
+    z-index: 1;
+}
+
