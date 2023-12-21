@@ -1,9 +1,27 @@
-.content__intro-background {
+/* .content__intro-background {
     border: 3px red solid;
     width: 100%;
     height: 250px;
     background: rgba(42, 44, 47, 0.8);
     margin-top: -200px;
     z-index: 1;
-}
+} */
 
+.content__intro-background {
+    /* border: 3px red solid; */
+    border-radius: 20%;
+    width: 100%;
+    height: 379px;
+    margin-top: -375px;
+    z-index: 1;
+    background: linear-gradient(
+        to bottom, 
+        rgba(42, 44, 47, 0), 
+        rgba(42, 44, 47, 0.422), 
+        rgba(42, 44, 47, 0.708), 
+        rgba(5, 10, 18, 0.911) 
+    );
+    background-size: cover; /* Atur ukuran latar belakang */
+    background-position: center; /* Posisikan latar belakang di tengah */
+    background-repeat: no-repeat; /* Hindari pengulangan latar belakang */
+}

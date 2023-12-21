@@ -1,10 +1,9 @@
 .cover {
     width: 1184px;
     min-height: 740px;
-    margin: 92px auto 0;
-    display: flex;
-    flex-wrap: wrap;
-
+    /* margin: 92px auto 0; */
+    /* display: flex; */
+    /* flex-wrap: wrap; */
     background-image: url(../../images/cover__background.png);
 }
 
